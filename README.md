@@ -16,6 +16,14 @@ a consistent and inviting webpage. Polishing some of the rough edges of the fron
 to glue and finish various send request for user creation, login, restaurant edit fields to finish just the morning of the presentation.
 
 <br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.08.54_am.png" />
+<img height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.03.49_am.png" />
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.05.46_am.png" />
+<img height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.06.39_am.png" />
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.01.30_am.png" />
+<img height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.44_am.png" />
+<br>
 <img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.15_am.png" />
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.03.49_am.png" />
 <br>
