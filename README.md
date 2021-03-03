@@ -10,6 +10,29 @@ To start our server you should install nodemon and npm. On the root folder start
 
 I was responsible for some of the front-end elements and gluing the frontend with the backend. This included
 writing JS code to retrieve from the backend and then to display on the webpage using React props and also writing the backend code
-to send info to the frontend. Testing and developing the code to display pictures and video (with audio). Created template code,
-JSX to produce components such as the Restaurant id cards, the Modal popup. Worked with the css person to create
-a consistent and inviting webpage. Polishing some of the rough edges of the frontend.
+to send info to the frontend. Testing and writing the entire code to display pictures and video (with audio). Created template code,
+JSX to produce components such as the Restaurant id cards, the entire Modal popup. Worked with the css person to create
+a consistent and inviting webpage. Polishing some of the rough edges of the frontend. Stayed up all night with the backend guy
+to glue and finish various send request for user creation, login, restaurant edit fields to finish just the morning of the presentation.
+
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.15_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.03.49_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.05.46_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.06.39_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.01.30_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.44_am.png" />
+<br>
+<br>
+<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.15_am.png" />
+<br>
