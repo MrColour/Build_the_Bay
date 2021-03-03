@@ -17,22 +17,5 @@ to glue and finish various send request for user creation, login, restaurant edi
 
 <br>
 <img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.15_am.png" />
-<br>
-<br>
 <img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.03.49_am.png" />
-<br>
-<br>
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.05.46_am.png" />
-<br>
-<br>
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.06.39_am.png" />
-<br>
-<br>
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_11.01.30_am.png" />
-<br>
-<br>
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.44_am.png" />
-<br>
-<br>
-<img align="left" height="250" src="https://github.com/MrColour/Build_the_Bay/blob/master/resources/screen_shot_2019-04-12_at_10.59.15_am.png" />
 <br>
